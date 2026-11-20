@@ -1,0 +1,17 @@
+.emoji-item {
+  background-color: #ffffff33;
+  border: 2px solid #ffffff30;
+  border-radius: 16px;
+  padding: 24px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji-btn {
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+}

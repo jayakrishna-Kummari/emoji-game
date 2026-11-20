@@ -1,0 +1,13 @@
+.app-container {
+  background-image: linear-gradient(to bottom right, #6a59ff, #fbc7d4);
+  min-height: 100vh;
+  background-size: cover;
+}
+
+.unorder-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  padding-left: 0px;
+}
